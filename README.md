@@ -15,6 +15,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radchapoom1009&theme=buefy&layout=compact" />
 </a>
 <br/>
-[![Facebook Badge]]
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)

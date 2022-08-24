@@ -22,6 +22,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radchapoom1009&theme=buefy&layout=compact" />
 </a>
 <br/>
-⭐️ From [SAchu47](https://github.com/SAchu47)
-<br/>
-⭐️ From [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
+⭐️ From [AVS1508](https://github.com/AVS1508)

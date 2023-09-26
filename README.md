@@ -21,8 +21,6 @@
   
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/Radchpoom"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Radchpoom" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=radchpoom&show_icons=true&locale=en&layout=compact" alt="radchpoom" /></p>
+<p><a href="https://github.com/radchapoom1009/radchapoom1009/"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Radchpoom" /></a></p><br><br>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)

@@ -17,6 +17,8 @@
 </div> 
 <br/>
 
+![Project Preview](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)
+
 <p align="center">
    <img src="https://img.shields.io/badge/language-python-blue?style"/>
    <img src="https://img.shields.io/github/license/anmol098/waka-readme-stats"/>

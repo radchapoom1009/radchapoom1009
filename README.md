@@ -20,6 +20,6 @@
 </div>
   
 
-<p><img align="center" href="https://github.com/radchapoom1009" src="https://github-readme-stats.vercel.app/api/top-langs?username=radchpoom&show_icons=true&locale=en&layout=compact" alt="radchpoom" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=radchpoom&show_icons=true&locale=en&layout=compact" alt="radchpoom" /></p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)

@@ -16,7 +16,7 @@
 </a>
 <br/>
 <div>
-  <img align="right" height="270px" width="450px" alt="GIF" src="[https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif](https://giphy.com/embed/ELGKlViA7AsMw)" />
+  <img align="right" height="270px" width="450px" alt="GIF" src="https://giphy.com/embed/ELGKlViA7AsMw" />
   
 <a href="https://github.com/radchapoom1009" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 

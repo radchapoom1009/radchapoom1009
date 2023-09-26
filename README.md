@@ -17,10 +17,18 @@
 </div> 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<p align="center">
+   <img src="https://img.shields.io/badge/language-python-blue?style"/>
+   <img src="https://img.shields.io/github/license/anmol098/waka-readme-stats"/>
+   <img src="https://img.shields.io/github/stars/anmol098/waka-readme-stats"/>
+   <img src="https://img.shields.io/github/forks/anmol098/waka-readme-stats"/>
+   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+</p>
+
+<!--    <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radchapoom1009&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radchapoom1009&theme=buefy&layout=compact" />
-</a>
+</a> -->
 <br/>
 
 <h3 align="left">Support:</h3>

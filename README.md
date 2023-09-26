@@ -15,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radchapoom1009&theme=buefy&layout=compact" />
 </a>
 <br/>
-<div align="center">
+<div align="center" style="background-color: grey">
   <img height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" />
 </div>
   

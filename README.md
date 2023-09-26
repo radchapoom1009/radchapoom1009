@@ -19,6 +19,7 @@
   <img height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" />
 </div>
   
-<a href="https://github.com/radchapoom1009" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+<p><img align="center" href="https://github.com/radchapoom1009" src="https://github-readme-stats.vercel.app/api/top-langs?username=radchpoom&show_icons=true&locale=en&layout=compact" alt="radchpoom" /></p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)

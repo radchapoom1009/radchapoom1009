@@ -1,7 +1,11 @@
 
 <h2> Hey there! I'm Radchapoom.K <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<!-- <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> -->
 
+<div align="center">
+  <img height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" />
+</div>
+  
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
@@ -11,14 +15,10 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radchapoom1009&theme=buefy&show_icons=true" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radchapoom1009&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radchapoom1009&theme=buefy&layout=compact" />
 </a>
 <br/>
-<div align="center">
-  <img height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" />
-</div>
-  
 
 <h3 align="left">Support:</h3>
 <p><a href="https://github.com/radchapoom1009/"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Radchpoom" /></a></p><br><br>

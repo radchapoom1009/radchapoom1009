@@ -16,11 +16,13 @@
     <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
 </div> 
 <br/>
-
+<div align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radchapoom1009&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radchapoom1009&theme=buefy&layout=compact" />
 </a> 
+  
+</div>
 
 <p align="center">
    <img src="https://img.shields.io/badge/language-python-blue?style"/>
